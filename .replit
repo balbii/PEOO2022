@@ -1,4 +1,4 @@
 language = "bash"
-run = "mcs -out:Main.exe './Lista POO/cinema.cs' ; mono Main.exe"
+run = "mcs -out:Main.exe './Lista Encapsulamento/cinema.cs' ; mono Main.exe"
 #run = "python3 './OBI python/jogo_copos.py'"
 #run = "mcs -out:Main.exe './teste.cs' ; mono Main.exe"
